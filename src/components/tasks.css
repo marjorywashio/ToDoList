@@ -3,12 +3,15 @@
     max-width: 736px;
     margin: 0 auto;
     padding: 0 1rem;
+    
 }
 
 .topo {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    padding: 5px;
+    height: 140px;
 }
 
 .topo > div {
@@ -21,6 +24,7 @@
     color: #4EA8DE;
     font-size: 14px;
     font-weight: 700;
+
 }
 
 .textPurple {
@@ -40,4 +44,5 @@
     display: flex;
     flex-direction: column;
     gap: 10px;
+    
 }

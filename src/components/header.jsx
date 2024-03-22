@@ -29,7 +29,7 @@ export function Header({ onAddTask }){
                     onChange={onChangeTitle} />
 
                 <button className='salvar'>
-                    Salvar 
+                    Criar 
                     <AiOutlinePlusCircle size={20} />
                 </button>
             </form>
